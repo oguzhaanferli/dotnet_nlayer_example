@@ -1,0 +1,14 @@
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\Veripark.Data.dll.config
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\Veripark.Data.dll
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\Veripark.Data.pdb
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\EntityFramework.dll
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\Veripark.Core.dll
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\Veripark.Core.pdb
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\EntityFramework.xml
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\obj\Debug\Veripark.Data.csproj.AssemblyReference.cache
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\obj\Debug\Veripark.Data.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\obj\Debug\Veripark.Data.csproj.CopyComplete
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\obj\Debug\Veripark.Data.dll
+C:\Users\oguzh\Desktop\Veripark\Veripark.Data\obj\Debug\Veripark.Data.pdb
